@@ -2,9 +2,18 @@
 	width: 1080px;
 	margin: 0 auto;
 }
+img {
+	height:300px;
+	width: 250px;
+}
 
+.left {
+	float: left;
+}
 
-
+.right {
+	float: right;
+}
 
 
 
